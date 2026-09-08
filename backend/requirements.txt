@@ -1,0 +1,12 @@
+fastapi==0.139.0
+uvicorn[standard]==0.50.0
+pydantic==2.13.4
+python-multipart==0.0.32
+python-dotenv==1.2.2
+httpx==0.28.1
+sqlalchemy==2.0.51
+psycopg2-binary==2.9.12
+google-genai>=1.0.0
+Pillow>=10.0.0
+inference-sdk==1.5.2
+pytest==8.3.3
